@@ -1,0 +1,52 @@
+body {
+    background-image: url('newzeland.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
+    
+   
+}
+
+.container {
+    max-width: 500px;
+  
+    margin: 0 auto;
+    padding: 20px;
+    backdrop-filter: blur;
+    background: rgba(255, 255, 255, 0.521);
+    border-radius: 15px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+    color: #070707;
+}
+header {
+    background-color: transparent;
+}
+footer {
+    background-color:transparent;
+
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+.completed {
+    text-decoration: line-through;
+    color: rgb(23, 22, 22);
+}
+table {
+    width: 100%;
+}
+.input-group input[type="text"] {
+    flex: 1;
+}
+#reward {
+    position:absolute;
+    right: 0;
+    margin: 20px;
+    padding: 10px;
+    background-color:transparent;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+}
+
+
