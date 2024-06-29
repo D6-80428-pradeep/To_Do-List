@@ -1,17 +1,14 @@
 body {
-    
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     height: 100vh;
     margin: 0;
-    background-color:#4F60A5;
-    background-image: url('newzeland.jpg');
+    background-color:#3c75a1;
+    background-image: url('glassy.jpg');
 }
-
 .container {
     max-width: 500px;
-  
     margin: 0 auto;
     padding: 20px;
     backdrop-filter: blur;
@@ -25,7 +22,6 @@ header {
 }
 footer {
     background-color:transparent;
-
     text-align: center;
     color: rgb(0, 0, 0);
 }
