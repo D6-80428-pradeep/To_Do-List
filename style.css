@@ -40,7 +40,7 @@ table {
     flex: 1;
 }
 #reward {
-    position:absolute;
+    position:fixed;
     right: 0;
     margin: 20px;
     padding: 10px;
